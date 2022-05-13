@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Proyecto NAR database
+Proyecto de investigación del Laboratorio de Bioinformación https://sites.google.com/a/ciencias.unam.mx/layla-michan/Home
 
-You can use the [editor on GitHub](https://github.com/lmichan/NAR-database/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Este proyecto está conformado por varios componentes:
+1. Identificar cuántas bases de datos hay en la colección
+2. Cuántas bases de datos tienen una categorías asignada
+3. Cómo es el sistema de clasificación
+4. Identificar inconsistencias en la base de datos
+5. Encontrar las bases de datos que no están vigentes
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Además todas las bases de datos vigentes se registrarán en Wikidata como parte del proyecto Bases de datos en Biociencias https://www.wikidata.org/wiki/Wikidata:Bases_de_Datos_Biociencias/NAR
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lmichan/NAR-database/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
