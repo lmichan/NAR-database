@@ -26,3 +26,5 @@ El proyecto ha constado de diferentes etapas, la parte inicial se caracterizó p
 Una de las principales heramientas para lograr los objetivos del proyecto es **wikidata**, ya que se puede describir, compartir, procesar información, ¡y lo mejor de todo con licencia de dominio público!
 
 La segunda herramienta importante es **Hypothes.is**, pues se pueden realizar anotaciones acerca de las bases de datos en un formato amigable y abierto a todo público.
+
+---
