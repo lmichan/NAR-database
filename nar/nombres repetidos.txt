@@ -1,0 +1,58 @@
+ANISEED
+APPRIS
+AutDB
+BioStudies
+Biomodels (también aparece como BioModels)
+CCDS
+ClinVar
+DDBJ
+DGIdb (aparece 3 veces)
+DrugBank
+EBI Metagenomics
+ENdb: a manually curated database of experimentally supported enhancers for human and mouse
+European Nucleotide Archive
+Expression Atlas
+FunCoup
+GWIPS-viz
+GenBank
+Gene3D
+Genomicus
+Gramene
+HOCOMOCO
+IUPHAR/BPS Guide to Pharmacology
+JASPAR
+MODOMICS
+MeT-DB
+MemMoRF
+MetalPDB
+MethBank
+Minimotif miner (también aparece como Minimotif Miner)
+MobiDB
+MoonProt
+Mouse Phenome Database
+NLSdb
+OMA
+Open Targets
+PDBe
+PLAZA
+PRGdb
+PolyA_DB
+ProteomeXchange
+RMBase
+Reactome
+Rfam
+SABIO-RK
+SMART
+SubtiWiki
+TADB
+TBDB
+TCMID
+TFClass
+TTD
+UCSC Genome Browser
+WikiPathways
+Xenbase (también aparece como XenBase)
+YEASTRACT
+iBeetle-Base
+mVOC
+miRTarBase

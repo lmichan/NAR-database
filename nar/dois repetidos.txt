@@ -1,0 +1,9 @@
+http://dx.doi.org/
+http://dx.doi.org/10.1093/nar/ (aparece 24 veces)
+http://dx.doi.org/10.1093/nar/1986
+http://dx.doi.org/10.1093/nar/1988
+http://dx.doi.org/10.1093/nar/GKR952
+http://dx.doi.org/10.1093/nar/GKR973
+http://dx.doi.org/10.1093/nar/gkaa762
+http://dx.doi.org/10.1093/nar/gkv840
+http://dx.doi.org/10.1093/nar/gkz973
