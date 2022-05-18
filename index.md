@@ -27,4 +27,13 @@ Una de las principales heramientas para lograr los objetivos del proyecto es **w
 
 La segunda herramienta importante es **Hypothes.is**, pues se pueden realizar anotaciones acerca de las bases de datos en un formato amigable y abierto a todo público.
 
----
+## **Resultados preliminares**
+
+Se pueden realizar búsquedas de las bases de datos curadas bajo este proyecto con las etiquetas [#NARdb](https://hypothes.is/search?q=tag%3ANARdb), [#Biodatabases](https://hypothes.is/search?q=biodatabases) o [#wikidata](https://hypothes.is/search?q=wikidata). Hasta el momento se tienen 230 anotaciones de bases de datos que se pueden consultar abiertamente.
+
+> Al tratarse de un proyecto en curso todos los días hay actualizaciones en los registros de bases de datos en ambas herramientas
+
+## **Perspectivas a futuro**
+
+Se espera que al termino del proyecto se tengan disponibles y reunidas todas las bases de datos de *The NAR online Molecular Biology Database Collection* en wikidata e Hyphotes.is, y que además, puedan ser consultadas abiertamente.
+
