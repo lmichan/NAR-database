@@ -51,7 +51,6 @@ URL can't contain control characters. '/sra or http://www.ebi.ac.uk/ena or http:
 URL can't contain control characters. 'clustercad.jbei.org and http' (found at least ' ')
 URL can't contain control characters. 'minimotifminer.org and mnm.engr.uconn.edu' (found at least ' ')
 [Errno 104] Connection reset by peer
-status url db
 timed out
 unknown url type: 'dwishart@ualberta.ca'
 unknown url type: 'imodulondb.com'
