@@ -1,3 +1,4 @@
+nombre,url nar,url db en nar,url db redirigida,urls db en nar y redirigida son distintas,categoria 1,subcategoria 1,categoria 2,subcategoria 2,categoria 3,subcategoria 3,doi,url redirigida del doi,status url db,ultima modificacion de la pagina de la db
 ANISEED,https://www.oxfordjournals.org/nar/database/summary/107,http://www.aniseed.cnrs.fr,http://www.aniseed.cnrs.fr,False,Genomics Databases (non-vertebrate),Taxonomy and identification,,,,,http://dx.doi.org/10.1093/nar/gkx1108,http://academic.oup.com/nar/article/46/D1/D718/4628129,200,
 ANISEED,https://www.oxfordjournals.org/nar/database/summary/1875,http://www.aniseed.cnrs.fr,http://www.aniseed.cnrs.fr,False,Genomics Databases (non-vertebrate),Invertebrate genome databases,,,,,http://dx.doi.org/10.1093/nar/gkv966,https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkv966,200,
 ,,,,,,,,,,,,,,
@@ -32,8 +33,6 @@ CCDS,https://www.oxfordjournals.org/nar/database/summary/35,https://www.ncbi.nlm
 CCDS,https://www.oxfordjournals.org/nar/database/summary/911,http://www.ncbi.nlm.nih.gov/CCDS/,https://www.ncbi.nlm.nih.gov/projects/CCDS/CcdsBrowse.cgi,True,Human and other Vertebrate Genomes,"Model organisms, comparative genomics",,,,,http://dx.doi.org/10.1093/nar/gkt1059,https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkt1059,200,
 ,,,,,,,,,,,,,,
 CSVS,https://www.oxfordjournals.org/nar/database/summary/2230,http://csvs.babelomics.org/,http://csvs.babelomics.org/,False,,,,,,,https://doi.org/10.1093/nar/gkaa794,https://academic.oup.com/nar/article/49/D1/D1130/5912819,200,16 Feb 2021
-CSVS - The Collaborative Spanish Variability Server,https://www.oxfordjournals.org/nar/database/summary/2101,http://csvs.babelomics.org/,http://csvs.babelomics.org/,False,Human Genes and Diseases,General human genetics databases,,,,,http://dx.doi.org/10.1093/nar/gkaa762,https://academic.oup.com/nar/article/49/D1/D1029/5911746,200,16 Feb 2021
-,,,,,,,,,,,,,,
 CSVS - The Collaborative Spanish Variability Server,https://www.oxfordjournals.org/nar/database/summary/2101,http://csvs.babelomics.org/,http://csvs.babelomics.org/,False,Human Genes and Diseases,General human genetics databases,,,,,http://dx.doi.org/10.1093/nar/gkaa762,https://academic.oup.com/nar/article/49/D1/D1029/5911746,200,16 Feb 2021
 STAB,https://www.oxfordjournals.org/nar/database/summary/2100,http://stab.comp-sysbio.org,http://stab.comp-sysbio.org,False,Microarray Data and other Gene Expression Databases,,,,,,http://dx.doi.org/10.1093/nar/gkaa762,https://academic.oup.com/nar/article/49/D1/D1029/5911746,200,19 Jul 2021
 ,,,,,,,,,,,,,,
