@@ -1,3 +1,5 @@
+Para las definiciones de los codigos de status consultar https://datatracker.ietf.org/doc/html/rfc2616
+
  OK
 'ascii' codec can't encode characters in position 5-7: ordinal not in range(128)
 200
