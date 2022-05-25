@@ -11,6 +11,9 @@ ARED-Plus,https://www.oxfordjournals.org/nar/database/summary/34,http://brp.kfsh
 ASpedia,https://www.oxfordjournals.org/nar/database/summary/10,http://combio.snu.ac.kr/aspedia,http://combio.snu.ac.kr/aspedia/,True,,,,,,,http://dx.doi.org/10.1093/nar/gkx1014,http://academic.oup.com/nar/article/46/D1/D58/4584641,200,
 TRRUST v2,https://www.oxfordjournals.org/nar/database/summary/58,http://combio.snu.ac.kr/aspedia,http://combio.snu.ac.kr/aspedia/,True,,,,,,,http://dx.doi.org/10.1093/nar/gkx1013,http://academic.oup.com/nar/article/46/D1/D380/4566018,200,
 ,,,,,,,,,,,,,,
+AlloMAPS,https://www.oxfordjournals.org/nar/database/summary/2014,http://allomaps.bii.a-star.edu.sg,http://allomaps.bii.a-star.edu.sg,False,Human Genes and Diseases,General polymorphism databases,,,,,https://doi.org/10.1093/nar/gky1028,https://academic.oup.com/nar/article/47/D1/D265/5144961,200,
+AlloMAPS: allosteric mutation analysis and polymorphism of signaling database,https://www.oxfordjournals.org/nar/database/summary/2056,,,,,,,,,,http://dx.doi.org/10.1093/nar/gky1028,https://academic.oup.com/nar/article/47/D1/D265/5144961,,
+,,,,,,,,,,,,,,
 AutDB,https://www.oxfordjournals.org/nar/database/summary/1274,http://autism.mindspec.org/autdb/Welcome.do,http://autism.mindspec.org/autdb/Welcome.do,False,Human Genes and Diseases,"Gene-, system- or disease-specific databases",,,,,,,200,
 AutDB,https://www.oxfordjournals.org/nar/database/summary/152,http://autism.mindspec.org/autdb/Welcome.do,http://autism.mindspec.org/autdb/Welcome.do,False,,,,,,,http://dx.doi.org/10.1093/nar/gkx1093,http://academic.oup.com/nar/article/46/D1/D1049/4658829,200,
 ,,,,,,,,,,,,,,
@@ -21,6 +24,7 @@ BIG Data Center,https://www.oxfordjournals.org/nar/database/summary/3,http://big
 National Genomics Data Center,https://www.oxfordjournals.org/nar/database/summary/2272,http://bigd.big.ac.cn,,,,,,,,,https://doi.org/10.1093/nar/gkaa1022,https://academic.oup.com/nar/article/49/D1/D18/5974090,Remote end closed connection without response,
 ,,,,,,,,,,,,,,
 Bacterial CSDB (BCSDB),https://www.oxfordjournals.org/nar/database/summary/977,http://csdb.glycoscience.ru/bacterial/,http://csdb.glycoscience.ru/help/migrate.html,True,Structure Databases,Carbohydrates,,,,,,,200,02 Oct 2021
+Carbohydrate Structure Database (CSDB),https://www.oxfordjournals.org/nar/database/summary/1904,http://csdb.glycoscience.ru/database,http://csdb.glycoscience.ru/database/,True,Structure Databases,Carbohydrates,,,,,http://dx.doi.org/10.1093/nar/gkv840,https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkv840,200,23 Feb 2019
 PFCSDB,https://www.oxfordjournals.org/nar/database/summary/1998,http://csdb.glycoscience.ru/plant_fungal/,http://csdb.glycoscience.ru/help/migrate.html,True,Structure Databases,Carbohydrates,,,,,http://dx.doi.org/10.1093/nar/gkv840,https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkv840,200,02 Oct 2021
 ,,,,,,,,,,,,,,
 BioModels,https://www.oxfordjournals.org/nar/database/summary/801,http://www.ebi.ac.uk/biomodels/,https://www.ebi.ac.uk/biomodels/,True,Other Molecular Biology Databases,,,,,,http://dx.doi.org/10.1093/nar/,,200,
@@ -35,9 +39,6 @@ CCDS,https://www.oxfordjournals.org/nar/database/summary/911,http://www.ncbi.nlm
 CSVS,https://www.oxfordjournals.org/nar/database/summary/2230,http://csvs.babelomics.org/,http://csvs.babelomics.org/,False,,,,,,,https://doi.org/10.1093/nar/gkaa794,https://academic.oup.com/nar/article/49/D1/D1130/5912819,200,16 Feb 2021
 CSVS - The Collaborative Spanish Variability Server,https://www.oxfordjournals.org/nar/database/summary/2101,http://csvs.babelomics.org/,http://csvs.babelomics.org/,False,Human Genes and Diseases,General human genetics databases,,,,,http://dx.doi.org/10.1093/nar/gkaa762,https://academic.oup.com/nar/article/49/D1/D1029/5911746,200,16 Feb 2021
 STAB,https://www.oxfordjournals.org/nar/database/summary/2100,http://stab.comp-sysbio.org,http://stab.comp-sysbio.org,False,Microarray Data and other Gene Expression Databases,,,,,,http://dx.doi.org/10.1093/nar/gkaa762,https://academic.oup.com/nar/article/49/D1/D1029/5911746,200,19 Jul 2021
-,,,,,,,,,,,,,,
-Carbohydrate Structure Database (CSDB),https://www.oxfordjournals.org/nar/database/summary/1904,http://csdb.glycoscience.ru/database,http://csdb.glycoscience.ru/database/,True,Structure Databases,Carbohydrates,,,,,http://dx.doi.org/10.1093/nar/gkv840,https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkv840,200,23 Feb 2019
-PFCSDB,https://www.oxfordjournals.org/nar/database/summary/1998,http://csdb.glycoscience.ru/plant_fungal/,http://csdb.glycoscience.ru/help/migrate.html,True,Structure Databases,Carbohydrates,,,,,http://dx.doi.org/10.1093/nar/gkv840,https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkv840,200,02 Oct 2021
 ,,,,,,,,,,,,,,
 ClinVar,https://www.oxfordjournals.org/nar/database/summary/154,https://www.ncbi.nlm.nih.gov/clinvar/,https://www.ncbi.nlm.nih.gov/clinvar/,False,Human Genes and Diseases,Cancer gene databases,,,,,http://dx.doi.org/10.1093/nar/gkx1153,http://academic.oup.com/nar/article/46/D1/D1062/4641904,200,
 ClinVar,https://www.oxfordjournals.org/nar/database/summary/1570,http://www.ncbi.nlm.nih.gov/clinvar/,https://www.ncbi.nlm.nih.gov/clinvar/,True,Human Genes and Diseases,General polymorphism databases,,,,,http://dx.doi.org/10.1093/nar/gkt1113,https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkt1113,200,
@@ -124,6 +125,9 @@ SuperTarget,https://www.oxfordjournals.org/nar/database/summary/1136,http://insi
 IKMC,https://www.oxfordjournals.org/nar/database/summary/1316,http://www.knockoutmouse.org/,https://www.mousephenotype.org/,True,Human and other Vertebrate Genomes,"Model organisms, comparative genomics",,,,,http://dx.doi.org/10.1093/nar/gkq879,https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkq879,200,23 May 2022
 IMPC,https://www.oxfordjournals.org/nar/database/summary/1711,http://www.mousephenotype.org,https://www.mousephenotype.org/,True,Human and other Vertebrate Genomes,"Model organisms, comparative genomics",,,,,http://dx.doi.org/10.1093/nar/gkt977,https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkt977,200,23 May 2022
 International Mouse Phenotyping Consortium Database,https://www.oxfordjournals.org/nar/database/summary/1071,https://www.mousephenotype.org/,https://www.mousephenotype.org/,False,Human and other Vertebrate Genomes,"Model organisms, comparative genomics",,,,,,,200,23 May 2022
+,,,,,,,,,,,,,,
+IMG Genomes,https://www.oxfordjournals.org/nar/database/summary/828,http://img.jgi.doe.gov/,https://img.jgi.doe.gov/,True,Genomics Databases (non-vertebrate),Prokaryotic genome databases,,,,,http://dx.doi.org/10.1093/nar/gkaa946,https://academic.oup.com/nar/article/49/D1/D764/5952208,200,
+IMG/VR v3,https://www.oxfordjournals.org/nar/database/summary/1945,https://img.jgi.doe.gov/vr/,https://img.jgi.doe.gov/vr/,False,Genomics Databases (non-vertebrate),Viral genome databases,,,,,https://doi.org/10.1093/nar/gkaa946,https://academic.oup.com/nar/article/49/D1/D764/5952208,200,
 ,,,,,,,,,,,,,,
 IMGT/3Dstructure-DB,https://www.oxfordjournals.org/nar/database/summary/502,http://www.imgt.org/,https://www.imgt.org/,True,Structure Databases,Protein structure,,,,,http://dx.doi.org/10.1093/nar/gkp946,https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkp946,200,
 IMGT/PRIMER-DB,https://www.oxfordjournals.org/nar/database/summary/505,http://www.imgt.org/,https://www.imgt.org/,True,Other Molecular Biology Databases,Molecular probes and primers,,,,,,,200,
@@ -227,6 +231,9 @@ SGD - Saccharomyces Genome Database,https://www.oxfordjournals.org/nar/database/
 ,,,,,,,,,,,,,,
 SMART,https://www.oxfordjournals.org/nar/database/summary/218,http://smart.embl.de/,http://smart.embl.de/,False,Protein sequence databases,Protein domain databases; protein classification,,,,,https://doi.org/10.1093/nar/gkaa937,https://academic.oup.com/nar/article/49/D1/D458/5940513,200,
 SMART,https://www.oxfordjournals.org/nar/database/summary/75,http://smart.embl.de,http://smart.embl.de,False,Protein sequence databases,,,,,,http://dx.doi.org/10.1093/nar/gkx922,http://academic.oup.com/nar/article/46/D1/D493/4429069,200,
+,,,,,,,,,,,,,,
+SSRome,https://www.oxfordjournals.org/nar/database/summary/2117,http://mggm-lab.easyomics.org,http://mggm-lab.easyomics.org,False,Organelle databases,,,,,,https://doi.org/10.1093/nar/gky998,https://academic.oup.com/nar/article/47/D1/D244/5144968,200,
+SSRome: an integrated database and pipelines for exploring microsatellites in all organisms,https://www.oxfordjournals.org/nar/database/summary/2053,,,,,,,,,,http://dx.doi.org/10.1093/nar/gky998,https://academic.oup.com/nar/article/47/D1/D244/5144968,,
 ,,,,,,,,,,,,,,
 SubtiWiki,https://www.oxfordjournals.org/nar/database/summary/110,http://subtiwiki.uni-goettingen.de/,http://subtiwiki.uni-goettingen.de/,False,Genomics Databases (non-vertebrate),Prokaryotic genome databases,,,,,http://dx.doi.org/10.1093/nar/gkx908,http://academic.oup.com/nar/article/46/D1/D743/4372578,200,
 SubtiWiki,https://www.oxfordjournals.org/nar/database/summary/1563,http://subtiwiki.uni-goettingen.de/,http://subtiwiki.uni-goettingen.de/,False,Genomics Databases (non-vertebrate),Prokaryotic genome databases,,,,,http://dx.doi.org/10.1093/nar/gkt1002,https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkt1002,200,
