@@ -1,0 +1,59 @@
+categoria,subcategoria,frecuencia
+Cell biology,,8
+Genomics Databases (non-vertebrate),,1
+Genomics Databases (non-vertebrate),Fungal genome databases,35
+Genomics Databases (non-vertebrate),General genomics databases,31
+Genomics Databases (non-vertebrate),"Genome annotation terms, ontologies and nomenclature",23
+Genomics Databases (non-vertebrate),Invertebrate genome databases,54
+Genomics Databases (non-vertebrate),"Model organisms, comparative genomics",2
+Genomics Databases (non-vertebrate),Prokaryotic genome databases,72
+Genomics Databases (non-vertebrate),Taxonomy and identification,14
+Genomics Databases (non-vertebrate),Unicellular eukaryotes genome databases,21
+Genomics Databases (non-vertebrate),Viral genome databases,31
+Human Genes and Diseases,,1
+Human Genes and Diseases,Cancer gene databases,51
+Human Genes and Diseases,"Gene-, system- or disease-specific databases",58
+Human Genes and Diseases,General human genetics databases,24
+Human Genes and Diseases,General polymorphism databases,45
+Human and other Vertebrate Genomes,,2
+Human and other Vertebrate Genomes,Human ORFs,21
+Human and other Vertebrate Genomes,"Human genome databases, maps and viewers",17
+Human and other Vertebrate Genomes,Invertebrate genome databases,3
+Human and other Vertebrate Genomes,"Model organisms, comparative genomics",74
+Immunological databases,,31
+Metabolic and Signaling Pathways,,5
+Metabolic and Signaling Pathways,Enzymes and enzyme nomenclature,24
+Metabolic and Signaling Pathways,Metabolic pathways,34
+Metabolic and Signaling Pathways,Protein-protein interactions,88
+Metabolic and Signaling Pathways,Signalling pathways,20
+Microarray Data and other Gene Expression Databases,,63
+Nucleotide Sequence Databases,,3
+Nucleotide Sequence Databases,Coding and non-coding DNA,50
+Nucleotide Sequence Databases,"Gene structure, introns and exons, splice sites",20
+Nucleotide Sequence Databases,International Nucleotide Sequence Database Collaboration,8
+Nucleotide Sequence Databases,Transcriptional regulator sites and transcription factors,78
+Organelle databases,,8
+Organelle databases,Mitochondrial genes and proteins,14
+Other Molecular Biology Databases,,20
+Other Molecular Biology Databases,Drugs and drug design,64
+Other Molecular Biology Databases,Molecular probes and primers,12
+Plant databases,,2
+Plant databases,Arabidopsis thaliana,29
+Plant databases,General plant databases,58
+Plant databases,Other plants,21
+Plant databases,Rice,20
+Protein sequence databases,,3
+Protein sequence databases,Databases of individual protein families,86
+Protein sequence databases,General sequence databases,14
+Protein sequence databases,Protein domain databases; protein classification,41
+Protein sequence databases,Protein localization and targeting,23
+Protein sequence databases,Protein properties,23
+Protein sequence databases,Protein sequence motifs and active sites,29
+Proteomics Resources,,28
+RNA sequence databases,,106
+RNA sequence databases,Coding and non-coding DNA,1
+Structure Databases,,2
+Structure Databases,Carbohydrates,14
+Structure Databases,Nucleic acid structure,22
+Structure Databases,Protein structure,115
+Structure Databases,Small molecules,20
