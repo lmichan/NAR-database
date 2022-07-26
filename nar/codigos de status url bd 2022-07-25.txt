@@ -1,16 +1,16 @@
-Para las definiciones de los codigos de status consultar https://datatracker.ietf.org/doc/html/rfc2616
-
- OK
 'ascii' codec can't encode characters in position 5-7: ordinal not in range(128)
 200
 202
 <urlopen error [Errno -2] Name or service not known>
 <urlopen error [Errno 101] Network is unreachable>
+<urlopen error [Errno 104] Connection reset by peer>
 <urlopen error [Errno 111] Connection refused>
 <urlopen error [Errno 113] No route to host>
 <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'bigfam.bioinformatics.nl.'. (_ssl.c:1123)>
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'goldenhelix.org'. (_ssl.c:1123)>
 <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'lynx.ci.uchicago.edu'. (_ssl.c:1123)>
 <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'sporeweb.molgenrug.nl'. (_ssl.c:1123)>
+<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.compgen.uni-muenster.de'. (_ssl.c:1123)>
 <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1123)>
 <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1123)>
 <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1123)>
@@ -24,7 +24,6 @@ HTTP Error 302: Found
 HTTP Error 302: Object moved
 HTTP Error 308: PERMANENT REDIRECT
 HTTP Error 308: Permanent Redirect
-HTTP Error 400: Bad Request
 HTTP Error 401: Unauthorized
 HTTP Error 403: Forbidden
 HTTP Error 404:
@@ -33,10 +32,9 @@ HTTP Error 404: Not Found
 HTTP Error 406: Not Acceptable
 HTTP Error 410: Gone
 HTTP Error 412: Precondition Failed
-HTTP Error 429: Too Many Requests
+HTTP Error 500:
 HTTP Error 500: Internal Server Error
 HTTP Error 502: Bad Gateway
-HTTP Error 502: Connection refused
 HTTP Error 503: Service Temporarily Unavailable
 HTTP Error 503: Service Unavailable
 HTTP Error 504: Gateway Time-out
