@@ -13,15 +13,18 @@ El proyecto NAR database es un proyecto colaborativo y multidisciplinario que es
 ## **Método**
 Todas las actividades realizadas dentro del proyecto NAR database están orientadas a curar las bases de datos de la *Colección NAR*. La curación consiste en seleccionar, transformar y difundir la información analizada y recuperada durante la investigación digital, llevada a cabo en el Laboratorio de Bioinformación,sobre bases de datos y ontologías de biología molecular.  
 I. Se analizó la información obtenida en la investigación digital relacionada con la Colección NAR. 
+
 1. Se identificaron cuántas bases de datos hay en la Colección NAR. 
 2. Se identificaron la(s) categoría(s) asignadas a cada base de datos. 
 3. Se estudió el sistema de clasificación de la Colección NAR. 
 
 II. Se recuperó información de la Colección NAR en una base de datos. 
+
 4. Se identificaron inconsistencias en las bases de datos: bases repetidas, bases no vigentes (OFF), bases fusionadas. 
 5. Se hizo un registro de las bases de datos OFF. 
  
 II. Se seleccionó la información útil de las categorías, subcategorías y bases de datos vigentes para realizar la curación. 
+
 6. Se registraron las categorías de la Colección NAR como ítems en wikidata 
 7. Se registraron las subcategorías de la Colección NAR como ítems en wikidata 
 8. Se registraron las bases de datos vigentes como ítems en [wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) 
