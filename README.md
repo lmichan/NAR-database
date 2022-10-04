@@ -48,13 +48,16 @@ Se espera que al termino del proyecto se tengan disponibles y reunidas todas las
 **Layla Michán Aguirre**
 
 laylamichan@ciencias.unam.mx 
+
 https://sites.google.com/a/ciencias.unam.mx/layla-michan/Home
+
 
 **Coordinación**
 
 **Nubia Getsemaní Casillas López** 
 
 nubia.getsemani@ciencias.unam.mx 
+
 
 **Equipo de curadores**
 
@@ -85,6 +88,7 @@ mineromero2901@ciencias.unam.mx
 Nubia Getsemaní Casillas López 
 
 nubia.getsemani@ciencias.unam.mx 
+
 
 **Soporte técnico**
 
