@@ -2,7 +2,8 @@
 
 ## **Introducción**
 
-El proyecto NAR es investigado en el [Laboratorio de Bioinformación](https://sites.google.com/a/ciencias.unam.mx/layla-michan/Home) bajo la línea de investigación [BIObits](https://sites.google.com/a/ciencias.unam.mx/layla-michan/tablero-biobits?authuser=0), es un subproyecto de **BioDBs** y del **wikiproyecto** [Bases de datos de Biociencias](https://www.wikidata.org/wiki/Wikidata:Bases_de_Datos_Biociencias/NAR).
+Cada año la revista de acceso abierto Nucleic Acids Research (NAR) publica dos números especiales, uno de ellos está dedicado a bases de datos biológicas que tratan temas de biología molecular, en especial ácidos nucleicos. (Wikipedia, 2022). En la edición del año 2022 la colección contó con 1645 entradas, clasificadas en 15 categorías y 42 subcategorías (Rigden & Fernández, 2022). A esta recopilación se le conoce como The NAR online Molecular Biology Database Collection o, como la llamaremos en adelante, Colección NAR. 
+El proyecto NAR database es un proyecto colaborativo y multidisciplinario que es investigado en el [Laboratorio de Bioinformación](https://sites.google.com/a/ciencias.unam.mx/layla-michan/Home) bajo la línea de investigación [BIObits](https://sites.google.com/a/ciencias.unam.mx/layla-michan/tablero-biobits?authuser=0), es un subproyecto de **BioDBs** y del **wikiproyecto** [Bases de datos de Biociencias](https://www.wikidata.org/wiki/Wikidata:Bases_de_Datos_Biociencias/NAR). El proyecto consiste en recopilar, analizar y curar las bases de datos de la Colección NAR y disponerlas en un formato amigable y abierto al público para que sean fácilmente encontradas y usadas por la comunidad que trabaja con biociencias, como investigadores, profesores, estudiantes y hasta curiosos. 
 
 ## **Objetivos**
 
