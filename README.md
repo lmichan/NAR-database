@@ -44,42 +44,56 @@ Se espera que al termino del proyecto se tengan disponibles y reunidas todas las
 
 ## **Créditos**
 **Asesor**
+
 **Layla Michán Aguirre**
+
 laylamichan@ciencias.unam.mx 
 https://sites.google.com/a/ciencias.unam.mx/layla-michan/Home
 
 **Coordinación**
+
 **Nubia Getsemaní Casillas López** 
+
 nubia.getsemani@ciencias.unam.mx 
 
 **Equipo de curadores**
+
 Jacqueline Paredes Sánchez 
+
 jacqueline.pa@ciencias.unam.mx 
 
 Bryan Ali Salgado Constantino 
+
 elvis.stek@ciencias.unam.mx 
 
 Yessica Galicia Pérez 
+
 yessicagp@ciencias.unam.mx 
 
 Jeanete Moreno Manzano 
+
 tenajmm@ciencias.unam.mx 
 
 Delia González Marín 
+
 delia.gonzalez.marin@gmail.com 
 
 Minerva María Romero Pérez 
+
 mineromero2901@ciencias.unam.mx 
 
 Nubia Getsemaní Casillas López 
+
 nubia.getsemani@ciencias.unam.mx 
 
 **Soporte técnico**
 
 José Victorino Ruíz Lavida 
+
 victorinolavida@ciencias.unam.mx 
 
 Fernando Moctezuma Soto 
+
 ciencias.unam@ciencias.unam.mx
 
 ## **Referencias**
