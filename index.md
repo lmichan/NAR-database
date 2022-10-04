@@ -45,7 +45,7 @@ Se espera que al termino del proyecto se tengan disponibles y reunidas todas las
 ## **Créditos**
 **Asesor**
 
-**Layla Michán Aguirre**
+Layla Michán Aguirre
 
 laylamichan@ciencias.unam.mx 
 
@@ -54,7 +54,7 @@ https://sites.google.com/a/ciencias.unam.mx/layla-michan/Home
 
 **Coordinación**
 
-**Nubia Getsemaní Casillas López** 
+Nubia Getsemaní Casillas López 
 
 nubia.getsemani@ciencias.unam.mx 
 
