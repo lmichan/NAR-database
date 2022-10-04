@@ -1,3 +1,4 @@
+## **Proyecto de investigación: NAR database**
 
 ## **Introducción**
 
@@ -40,7 +41,7 @@ Actualmente, se pueden realizar búsquedas de las bases de datos curadas bajo es
 > Al tratarse de un proyecto en curso todos los días hay actualizaciones en los registros de bases de datos en ambas herramientas
 
 ## **Perspectivas a futuro**
-Se espera que al término del proyecto se tengan disponibles y reunidas todas las bases de datos de la Colección NAR en wikidata e Hyphotes.is, y además puedan ser consultadas abiertamente. Como se mencionó anteriormente, el Proyecto NAR database es un proyecto colaborativo y multidisciplinario, en él trabajan biólogos, actuarios, computólogos y matemáticos que han logrado unir y amalgamar habilidades y talentos para enriquecer y acelerar el desarrollo del mismo. Aunque se trata de un proyecto en curso se pueden ver los resultados de los talentos grupales aplicados a un mismo fin: lograr ciencia colaborativa, abierta y de utilidad.
+Se espera que al término del proyecto se tengan disponibles y reunidas todas las bases de datos de la Colección NAR en wikidata e Hyphotes.is, y además puedan ser consultadas abiertamente. Como se mencionó anteriormente, el *Proyecto NAR database* es un proyecto colaborativo y multidisciplinario, en él trabajan biólogos, actuarios, computólogos y matemáticos que han logrado unir y amalgamar habilidades y talentos para enriquecer y acelerar el desarrollo del mismo. Aunque se trata de un proyecto en curso se pueden ver los resultados de los talentos grupales aplicados a un mismo fin: lograr ciencia colaborativa, abierta y de utilidad.
 
 ## **Créditos**
 **Asesor**
@@ -99,6 +100,7 @@ victorinolavida@ciencias.unam.mx
 Fernando Moctezuma Soto 
 
 ciencias.unam@ciencias.unam.mx
+
 
 ## **Referencias**
 Rigden, D. J., & Fernández, X. M. (2022). The 2022 Nucleic Acids Research database issue and the online molecular biology database collection. Nucleic Acids Research, 50(D1), D1–D10. https://doi.org/10.1093/nar/gkab1195 
