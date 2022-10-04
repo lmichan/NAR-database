@@ -1,4 +1,3 @@
-# NAR database: proyecto de investigación 
 
 ## **Introducción**
 
