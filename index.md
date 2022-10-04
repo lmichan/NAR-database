@@ -11,6 +11,7 @@ El proyecto NAR database es un proyecto colaborativo y multidisciplinario que es
 
 ## **Método**
 Todas las actividades realizadas dentro del proyecto NAR database están orientadas a curar las bases de datos de la *Colección NAR*. La curación consiste en seleccionar, transformar y difundir la información analizada y recuperada durante la investigación digital, llevada a cabo en el Laboratorio de Bioinformación,sobre bases de datos y ontologías de biología molecular.  
+
 I. Se analizó la información obtenida en la investigación digital relacionada con la Colección NAR. 
 
 1. Se identificaron cuántas bases de datos hay en la Colección NAR. 
@@ -39,7 +40,7 @@ Actualmente, se pueden realizar búsquedas de las bases de datos curadas bajo es
 > Al tratarse de un proyecto en curso todos los días hay actualizaciones en los registros de bases de datos en ambas herramientas
 
 ## **Perspectivas a futuro**
-Se espera que al termino del proyecto se tengan disponibles y reunidas todas las bases de datos de *The NAR online Molecular Biology Database Collection* en wikidata e Hyphotes.is, y que además, puedan ser consultadas abiertamente.
+Se espera que al término del proyecto se tengan disponibles y reunidas todas las bases de datos de la Colección NAR en wikidata e Hyphotes.is, y además puedan ser consultadas abiertamente. Como se mencionó anteriormente, el Proyecto NAR database es un proyecto colaborativo y multidisciplinario, en él trabajan biólogos, actuarios, computólogos y matemáticos que han logrado unir y amalgamar habilidades y talentos para enriquecer y acelerar el desarrollo del mismo. Aunque se trata de un proyecto en curso se pueden ver los resultados de los talentos grupales aplicados a un mismo fin: lograr ciencia colaborativa, abierta y de utilidad.
 
 ## **Créditos**
 **Asesor**
