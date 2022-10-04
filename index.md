@@ -3,15 +3,14 @@
 ## **Introducción**
 
 Cada año la revista de acceso abierto [Nucleic Acids Research](https://es.wikipedia.org/wiki/Nucleic_Acids_Research) publica dos números especiales, uno de ellos está dedicado a bases de datos biológicas que tratan temas de biología molecular, en especial ácidos nucleicos. (Wikipedia, 2022). En la edición del año 2022 la colección contó con 1645 entradas, clasificadas en 15 categorías y 42 subcategorías (Rigden & Fernández, 2022). A esta recopilación se le conoce como *The NAR online Molecular Biology Database Collection* o, como la llamaremos en adelante, Colección NAR. 
-El proyecto NAR database es un proyecto colaborativo y multidisciplinario que es investigado en el [Laboratorio de Bioinformación](https://sites.google.com/a/ciencias.unam.mx/layla-michan/Home) bajo la línea de investigación [BIObits](https://sites.google.com/a/ciencias.unam.mx/layla-michan/tablero-biobits?authuser=0), es un subproyecto de **BioDBs** y del **wikiproyecto** [Bases de datos de Biociencias](https://www.wikidata.org/wiki/Wikidata:Bases_de_Datos_Biociencias/NAR). El proyecto consiste en recopilar, analizar y curar las bases de datos de la *Colección NAR* y disponerlas en un formato amigable y abierto al público para que sean fácilmente encontradas y usadas por la comunidad que trabaja con biociencias, como investigadores, profesores, estudiantes y hasta curiosos. 
-
+El proyecto NAR database es un proyecto colaborativo y multidisciplinario que es investigado en el [Laboratorio de Bioinformación](https://sites.google.com/a/ciencias.unam.mx/layla-michan/Home) bajo la línea de investigación [BIObits](https://sites.google.com/a/ciencias.unam.mx/layla-michan/tablero-biobits?authuser=0), es un subproyecto de **BioDBs** y del **wikiproyecto** [Bases de datos de Biociencias](https://www.wikidata.org/wiki/Wikidata:Bases_de_Datos_Biociencias/NAR).
 ## **Objetivos**
 
 + Conocer, organizar y reunir las bases de datos indexadas en la [*Colección NAR*](https://www.wikidata.org/wiki/Q110211927) 
 + Disponer las bases de datos en un formato amigable y público para que sean fácilmente encontradas y usadas por la comunidad que trabaja con biociencias, como investigadores, profesores, estudiantes y hasta curiosos. 
 
 ## **Método**
-Todas las actividades realizadas dentro del proyecto NAR database están orientadas a curar las bases de datos de la *Colección NAR*. La curación consiste en seleccionar, transformar y difundir la información analizada y recuperada durante la investigación digital, llevada a cabo en el Laboratorio de Bioinformación,sobre bases de datos y ontologías de biología molecular.  
+Todas las actividades realizadas dentro del proyecto NAR database están orientadas a curar las bases de datos de la *Colección NAR*. La curación consiste en seleccionar, transformar y difundir la información analizada y recuperada durante la investigación digital sobre bases de datos y ontologías de biología molecular.  
 
 I. Se analizó la información obtenida en la investigación digital relacionada con la Colección NAR. 
 
@@ -28,8 +27,9 @@ II. Se seleccionó la información útil de las categorías, subcategorías y ba
 
 6. Se registraron las categorías de la Colección NAR como ítems en wikidata 
 7. Se registraron las subcategorías de la Colección NAR como ítems en wikidata 
-8. Se registraron las bases de datos vigentes como ítems en [wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) 
-9. Se hicieron anotaciones con información de las categorías, subcategorías y bases de datos en [Hypothes.is](https://web.hypothes.is)  
+8. Se registraron las bases de datos vigentes como ítems en wikidata
+9. Se hicieron anotaciones con información de las categorías, subcategorías y bases de datos en Hypothes.is
+
 
 ## **Herramientas**
 Una de las principales herramientas para lograr los objetivos del proyecto fue [wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page), una base de conocimiento colaborativa donde se puede describir, compartir y procesar información bajo una licencia de dominio público (Wikipedia, 2022). La segunda herramienta utilizada fue [Hypothes.is](https://web.hypothes.is), un proyecto de software de código abierto donde se pueden realizar anotaciones en cualquier contenido accesible en la web en un formato amigable y abierto a todo público (Wikipedia, 2022).
@@ -37,6 +37,8 @@ Una de las principales herramientas para lograr los objetivos del proyecto fue [
 
 ## **Resultados preliminares**
 Actualmente, se pueden realizar búsquedas de las bases de datos curadas bajo este proyecto con las etiquetas [#NARdb](https://hypothes.is/search?q=tag%3ANARdb), [#Biodatabases](https://hypothes.is/search?q=biodatabases) o [#wikidata](https://hypothes.is/search?q=wikidata). Hasta el momento se tienen 421 anotaciones de bases de datos que se pueden consultar abiertamente.
+
+En wikidata existen 597 registros de bases de datos de la Colección NAR que se pueden consultar ingresando al siguiente enlace: https://w.wiki/5SNc. También se pueden consultar los detalles y avances del Proyecto en la siguiente liga: https://www.wikidata.org/wiki/Wikidata:Bases_de_Datos_Biociencias.
 
 > Al tratarse de un proyecto en curso todos los días hay actualizaciones en los registros de bases de datos en ambas herramientas
 
