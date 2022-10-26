@@ -1,9 +1,11 @@
-## **Proyecto de investigación: NAR database**
+#**Proyecto de investigación: NAR database**
 
 ## **Introducción**
 
 The NAR online Molecular Biology Database Collection es una colección de bases de datos de acceso abierto y online, dedicada a bases de datos biológicas que trata temas de biología molecular, en especial ácidos nucleicos (Wikipedia, 2022). La Colección NAR es publicada anualmente por la Revista [Nucleic Acids Research](https://es.wikipedia.org/wiki/Nucleic_Acids_Research) (NAR) y mantenida por Oxford Academy. 
+
 La Colección NAR utiliza un sistema de clasificación donde se organizan las bases de datos en categorías y subcategorías. Cada categoría agrupa las bases de datos sobre un tema específico.
+
 En la [edición del año 2022](https://academic.oup.com/nar/article/50/D1/D1/6495890) la colección contó con 1645 entradas, clasificadas en 15 categorías y 43 subcategorías (Rigden & Fernández, 2022). Algunas bases de datos no están asignadas a ninguna categoría y otras bases de datos están asignadas a múltiples categorías.
 
 El proyecto NAR database es un proyecto colaborativo y multidisciplinario que es investigado en el [Laboratorio de Bioinformación](https://sites.google.com/bioinformacion.org/bioinformacion/Home) bajo la línea de investigación [BIObits](https://sites.google.com/bioinformacion.org/bioinformacion/tablero-biobits?authuser=0), es un subproyecto de **BioDBs** y del **wikiproyecto** [Bases de datos de Biociencias](https://www.wikidata.org/wiki/Wikidata:Bases_de_Datos_Biociencias/NAR).
@@ -48,13 +50,13 @@ Actualmente, se tienen 453 anotaciones de bases de datos curadas hechas en Hypot
 
 También se pueden consultar información adicional, detalles y avances del *Proyecto NAR databases* en la página del [wikiproyecto Bases de datos de Biociencias/NAR](https://www.wikidata.org/wiki/Wikidata:Bases_de_Datos_Biociencias/NAR).
 
-> > > Al tratarse de un proyecto en curso todos los días hay actualizaciones en los registros de bases de datos en ambas herramientas
+> Al tratarse de un proyecto en curso todos los días hay actualizaciones en los registros de bases de datos en ambas herramientas
 
 ## **Perspectivas a futuro**
 Se espera que al término del proyecto se tengan disponibles y reunidas todas las bases de datos de la Colección NAR en wikidata e Hyphotes.is, y además puedan ser consultadas abiertamente. Como se mencionó anteriormente, el *Proyecto NAR database* es un proyecto colaborativo y multidisciplinario, en él trabajan biólogos, actuarios, computólogos y matemáticos que han logrado unir y amalgamar habilidades y talentos para enriquecer y acelerar el desarrollo del mismo. Aunque se trata de un proyecto en curso se pueden ver los resultados de los talentos grupales aplicados a un mismo fin: lograr ciencia colaborativa, abierta y de utilidad.
 
 ## **Créditos**
-**Asesor**
+###**Asesor**
 
 Layla Michán Aguirre
 
@@ -63,16 +65,16 @@ laylamichan@ciencias.unam.mx
 [https://sites.google.com/bioinformacion.org/bioinformacion/Home](https://sites.google.com/bioinformacion.org/bioinformacion/Home)
 
 
-**Coordinación**
+###**Coordinación**
 
-Nubia Getsemaní Casillas López 
+####Nubia Getsemaní Casillas López 
 
 nubia.getsemani@ciencias.unam.mx 
 
 
-**Equipo de curadores**
+###**Equipo de curadores**
 
-Jacqueline Paredes Sánchez 
+####Jacqueline Paredes Sánchez 
 
 jacqueline.pa@ciencias.unam.mx 
 
