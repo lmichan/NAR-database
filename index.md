@@ -1,4 +1,4 @@
-#**Proyecto de investigación: NAR database**
+# **Proyecto de investigación: NAR database**
 
 ## **Introducción**
 
@@ -48,7 +48,7 @@ Una de las principales herramientas para lograr los objetivos del proyecto fue [
 ## **Resultados preliminares**
 Actualmente, se tienen 453 anotaciones de bases de datos curadas hechas en Hypothes.is  con las etiquetas: [#NARdb, #Biodatabases y #wikidata](https://hypothes.is/search?q=tag%3ANARdb+Biodatabases+wikidata). En wikidata existen 634 registros de bases de datos de la Colección NAR que se pueden consultar con el [servicio de consulta de wikidata](https://w.wiki/58cD). 
 
-También se pueden consultar información adicional, detalles y avances del *Proyecto NAR databases* en la página del [wikiproyecto Bases de datos de Biociencias/NAR](https://www.wikidata.org/wiki/Wikidata:Bases_de_Datos_Biociencias/NAR).
+También se pueden consultar información adicional, detalles y avances del *Proyecto NAR databases* en la página del wikiproyecto [Bases de datos de Biociencias/NAR](https://www.wikidata.org/wiki/Wikidata:Bases_de_Datos_Biociencias/NAR).
 
 > Al tratarse de un proyecto en curso todos los días hay actualizaciones en los registros de bases de datos en ambas herramientas
 
@@ -56,7 +56,7 @@ También se pueden consultar información adicional, detalles y avances del *Pro
 Se espera que al término del proyecto se tengan disponibles y reunidas todas las bases de datos de la Colección NAR en wikidata e Hyphotes.is, y además puedan ser consultadas abiertamente. Como se mencionó anteriormente, el *Proyecto NAR database* es un proyecto colaborativo y multidisciplinario, en él trabajan biólogos, actuarios, computólogos y matemáticos que han logrado unir y amalgamar habilidades y talentos para enriquecer y acelerar el desarrollo del mismo. Aunque se trata de un proyecto en curso se pueden ver los resultados de los talentos grupales aplicados a un mismo fin: lograr ciencia colaborativa, abierta y de utilidad.
 
 ## **Créditos**
-###**Asesor**
+### **Asesor**
 
 Layla Michán Aguirre
 
@@ -65,9 +65,9 @@ laylamichan@ciencias.unam.mx
 [https://sites.google.com/bioinformacion.org/bioinformacion/Home](https://sites.google.com/bioinformacion.org/bioinformacion/Home)
 
 
-###**Coordinación**
+### **Coordinación**
 
-####Nubia Getsemaní Casillas López 
+#### Nubia Getsemaní Casillas López 
 
 nubia.getsemani@ciencias.unam.mx 
 
@@ -103,7 +103,7 @@ Nubia Getsemaní Casillas López
 nubia.getsemani@ciencias.unam.mx 
 
 
-**Soporte técnico**
+### **Soporte técnico**
 
 José Victorino Ruíz Lavida 
 
