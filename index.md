@@ -94,7 +94,7 @@ tenajmm@ciencias.unam.mx
 
 **Delia González Marín** 
 
-delia.gonzalez.marin@gmail.comc
+delia.gonzalez.marin@gmail.com
 
 **Minerva María Romero Pérez**
 
@@ -119,10 +119,11 @@ ciencias.unam@ciencias.unam.mx
 ***
 
 ### **VIII. Referencias**
-##### Rigden, D. J., & Fernández, X. M. (2022). The 2022 Nucleic Acids Research database issue and the online molecular biology database collection. Nucleic Acids Research, 50(D1), D1–D10. https://doi.org/10.1093/nar/gkab1195 
+##### Rigden, D. J., & Fernández, X. M. (2022). The 2022 Nucleic Acids Research database issue and the online molecular biology database collection. Nucleic Acids Research, 50(D1), D1–D10. [https://doi.org/10.1093/nar/gkab1195](https://doi.org/10.1093/nar/gkab1195)
 
-##### Wikipedia. (2022, 18 agosto). Hypothes.is. Wikipedia, The Free Encyclopedia. Consultado el 28 septiembre de 2022. https://es.wikipedia.org/w/index.php?title=Hypothes.is&oldid=145439749 
+##### Wikipedia. (2022, 18 agosto). Hypothes.is. Wikipedia, The Free Encyclopedia. Consultado el 28 septiembre de 2022. [https://es.wikipedia.org/w/index.php?title=Hypothes.is&oldid=145439749](https://es.wikipedia.org/w/index.php?title=Hypothes.is&oldid=145439749)
 
-##### Wikipedia. (2022, 27 agosto). Nucleic Acids Research. Wikipedia, The Free Encyclopedia. Consultado el 21 de septiembre de 2022. https://es.wikipedia.org/w/index.php?title=Nucleic_Acids_Research&oldid=145616098 
+##### Wikipedia. (2022, 27 agosto). Nucleic Acids Research. Wikipedia, The Free Encyclopedia. Consultado el 21 de septiembre de 2022. [https://es.wikipedia.org/w/index.php?title=Nucleic_Acids_Research&oldid=145616098](https://es.wikipedia.org/w/index.php?title=Nucleic_Acids_Research&oldid=145616098)
 
-##### Wikipedia. (2022, 6 de septiembre). Wikidata. Wikipedia, The Free Encyclopedia. Consultado el 22 de septiembre de 2022. https://es.wikipedia.org/w/index.php?title=Wikidata&oldid=145808699 
+##### Wikipedia. (2022, 6 de septiembre). Wikidata. Wikipedia, The Free Encyclopedia. Consultado el 22 de septiembre de 2022. [https://es.wikipedia.org/w/index.php?title=Wikidata&oldid=145808699](https://es.wikipedia.org/w/index.php?title=Wikidata&oldid=145808699)
+
