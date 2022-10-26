@@ -64,12 +64,14 @@ Se espera que al término del proyecto se tengan disponibles y reunidas todas la
 laylamichan@ciencias.unam.mx 
 
 [https://sites.google.com/bioinformacion.org/bioinformacion/Home](https://sites.google.com/bioinformacion.org/bioinformacion/Home)
+
 ***
 
 #### **Coordinación**
 **Nubia Getsemaní Casillas López**
 
 nubia.getsemani@ciencias.unam.mx
+
 ***
 
 #### **Equipo de curadores**
@@ -101,6 +103,7 @@ mineromero2901@ciencias.unam.mx
 **Nubia Getsemaní Casillas López** 
 
 nubia.getsemani@ciencias.unam.mx
+
 ***
 
 #### **Soporte técnico**
@@ -112,6 +115,7 @@ victorinolavida@ciencias.unam.mx
 **Fernando Moctezuma Soto** 
 
 ciencias.unam@ciencias.unam.mx
+
 ***
 
 ### **VIII. Referencias**
